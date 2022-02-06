@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\untitledLaba5b.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\untitledLaba5b.dir/objects.a @CMakeFiles\untitledLaba5b.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\untitledLaba5b.dir/objects.a -Wl,--no-whole-archive -o untitledLaba5b.exe -Wl,--out-implib,libuntitledLaba5b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\untitledLaba5b.dir\linklibs.rsp

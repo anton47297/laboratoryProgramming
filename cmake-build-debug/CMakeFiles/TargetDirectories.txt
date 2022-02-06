@@ -1,0 +1,3 @@
+C:/C/untitledLaba5b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/C/untitledLaba5b/cmake-build-debug/CMakeFiles/untitledLaba5b.dir
+C:/C/untitledLaba5b/cmake-build-debug/CMakeFiles/edit_cache.dir
