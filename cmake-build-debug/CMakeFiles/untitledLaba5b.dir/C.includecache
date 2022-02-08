@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/C/untitledLaba5b/vector.c
+vector.h
+C:/C/untitledLaba5b/vector.h
+
+C:/C/untitledLaba5b/vector.h
+stdio.h
+-
+malloc.h
+-
+stdbool.h
+-
+stdint.h
+-
+stdlib.h
+-
+

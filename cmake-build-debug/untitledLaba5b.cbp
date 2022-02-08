@@ -77,6 +77,12 @@
 		<Unit filename="C:/C/untitledLaba5b/main.c">
 			<Option target="untitledLaba5b"/>
 		</Unit>
+		<Unit filename="C:/C/untitledLaba5b/vector.c">
+			<Option target="untitledLaba5b"/>
+		</Unit>
+		<Unit filename="C:/C/untitledLaba5b/vector.h">
+			<Option target="untitledLaba5b"/>
+		</Unit>
 		<Unit filename="C:/C/untitledLaba5b/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
